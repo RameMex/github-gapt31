@@ -19,8 +19,8 @@ export const About = () => {
   return (
     <>
       <Helmet>
-        <title>{titleData}</title>
-        <meta name="description" content={titleData} />
+        <title>algo mas</title>
+        <meta name="description" content="No se que poner" />
       </Helmet>
       <h1>about</h1>
     </>
